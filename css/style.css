@@ -1,0 +1,18 @@
+
+            body {
+                background-color:black;
+                color:aliceblue;
+            }
+            hr {
+                border-style:none;
+                border-top-style:dotted;
+                width:10%;
+                border-width:5px;
+                border-color:grey;
+            }
+    h1{
+    color: crimson;
+    }
+    h3{
+        color: mediumaquamarine;
+    }

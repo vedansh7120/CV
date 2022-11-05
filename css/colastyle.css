@@ -1,0 +1,35 @@
+h1{
+    color:red;
+  font-size: 200px;
+    background-color: black;
+}
+body{
+    background-color:lightcyan;
+}
+h2{
+  color:darkorchid;
+  font-size:50px;
+  background-color:black;
+}
+.amoungus:hover{
+  background-color: mediumaquamarine;
+}
+#heading{
+  font-size:150px;
+  font-style:oblique;
+}
+img{
+  border-radius:100px;
+}
+.circular{
+  border-radius:50px;
+}
+#he:hover{
+  background-color: rgb(13, 13, 13);
+}
+#hee:hover{
+  background-color:deepskyblue;
+}
+#heee:hover{
+  background-color:khaki;
+}
